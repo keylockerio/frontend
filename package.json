@@ -1,0 +1,30 @@
+{
+  "name": "keylocker.io",
+  "version": "0.0.1",
+  "description": "Frontend for the keylocker.io service",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.3.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keylockerio/frontend.git"
+  },
+  "keywords": [
+    "ssh",
+    "keylocker",
+    "keylocker.io",
+    "secure",
+    "shell"
+  ],
+  "author": "Barney Hanlon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keylockerio/frontend/issues"
+  },
+  "homepage": "https://github.com/keylockerio/frontend"
+}

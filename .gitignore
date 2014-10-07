@@ -2,6 +2,8 @@
 logs
 *.log
 
+web/js/vendor
+
 # Runtime data
 pids
 *.pid
